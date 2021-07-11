@@ -8,7 +8,7 @@ import java.util.Comparator;
  * Interface Funcional
  * É uma interface que possui um único método abstrato. Suas
  * implementações serão tratadas como expressões lambda.
- * **/
+ **/
 
 public class MyComparator implements Comparator<Product> {
     @Override
